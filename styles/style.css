@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+:root{
+    --60: #ffffff;
+    --30: #1e1e1e;
+    --10: #4CA4AF;
+    --btn-r: #5E9CA0;
+    --btn-p: #E3CFA5;
+    --btn-s: #E26A5E;
+    --accent: #F5F2ED;
+}
+
+body{
+    margin: 0;
+    padding: 24px; 
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+h3{
+      text-align: center;
+}
+
+.signature{
+  margin-top: 8px;
+  text-align: center;
+  font-family: 'Trebuchet MS', sans-serif;
+}
